@@ -8,10 +8,8 @@ public static void main(String[] args) {
 	 System.out.println("Enter your first name");
 	    String firstname= scan.nextLine();
 	  
-	 System.out.println("Please enter your surname");
-	 System.out.println("Please enter your surname");
-	 System.out.println("Please enter your surname");
-	 System.out.println("Please enter your surname");
+	
+	 System.out.println("Please enter your gitname");
 	     String surname= scan.nextLine();
 	     
 	     

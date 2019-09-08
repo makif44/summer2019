@@ -9,7 +9,7 @@ public static void main(String[] args) {
 	    String firstname= scan.nextLine();
 	  
 	
-	 System.out.println("Please enter your gitname");
+	 System.out.println("Please enter your name");
 	     String surname= scan.nextLine();
 	     
 	     
